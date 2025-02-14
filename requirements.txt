@@ -1,10 +1,6 @@
 ### dependency
 streamlit
-requests
-pandas
-scikit-learn
-numpy
-Pillow
 
 ### local packages -
 -e . 
+
